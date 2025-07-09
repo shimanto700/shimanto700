@@ -10,7 +10,7 @@
 ## 👨‍💻 About Me
 
 - 🔭 I’m currently working on **Embedded Systems Projects**
-- 🌱 Learning **C++**, **DSA**, and low-level hardware programming
+- 🌱 Learning **Python**, **DSA**, and low-level hardware programming.
 - 🤖 Interested in **Robotics**, **AI**, and real-world tech innovation
 - 🛠️ Working on bridging **hardware + software**
 - 🎯 Goal: Become a top-tier embedded systems and AI engineer
