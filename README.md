@@ -54,11 +54,6 @@ Here are some of my key AI / ML projects:
 
 ---
 
----
-
-## 📫 How to Reach Me  
-- **LinkedIn**: [www.linkedin.com/in/hussain-shimanto]  
-- **Email**: hussainshimanto715@gmail.com
 
 ---
 
