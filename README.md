@@ -7,34 +7,71 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-## 👨‍💻 About Me
+# 👋 Hi, I'm Shimanto (shimanto700)  
 
-- 🔭 I’m currently working on **Embedded Systems Projects**
-- 🌱 Learning **Python**, **DSA**, and low-level hardware programming.
-- 🤖 Interested in **Robotics**, **AI**, and real-world tech innovation
-- 🛠️ Working on bridging **hardware + software**
-- 🎯 Goal: Become a top-tier embedded systems and AI engineer
+**AI Engineer | Machine Learning Enthusiast**  
 
+---
 
+## 🧠 About Me  
+- Passionate about building intelligent systems using NLP, computer vision, and deep learning.  
+- Currently exploring large language models, reinforcement learning, and MLOps.  
+- Strong background in Python, data processing, and scalable ML pipelines.
 
+---
 
+## 💻 Skills  
+| Area | Technologies / Tools |
+|---|---|
+| **Machine Learning / Deep Learning** | PyTorch, TensorFlow, scikit-learn |
+| **Natural Language Processing** | Hugging Face Transformers, spaCy, NLTK |
+| **Data Engineering** | Pandas, NumPy, SQL, Apache Spark |
+| **MLOps** | Docker, Kubernetes, MLflow, GitHub Actions |
+| **Cloud / Infrastructure** | AWS / GCP, REST API, FastAPI |
+| **Programming** | Python, Git, Bash |
 
+---
 
-## 🧰 Languages and Tools:
+## 🚀 My Projects  
+Here are some of my key AI / ML projects:  
 
-<!-- Languages -->
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- **Project A** — Brief description: e.g., “A sentiment analysis tool using transformer models”  
+- **Project B** — Brief description: e.g., “Computer vision project for image classification”  
+- **Project C** — Brief description: e.g., “End-to-end ML pipeline with CI/CD and monitoring”  
 
+*(Add links to the repos)*
 
-<!-- Tools -->
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+---
 
+## 📊 GitHub Stats  
+![Shimanto’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=shimanto700&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shimanto700&layout=compact)  
 
+---
 
+## 🎯 What I'm Learning  
+- Working on **Reinforcement Learning** (e.g., PPO, DQN)  
+- Optimizing LLM inference (quantization, pruning)  
+- Building better MLOps pipelines for model deployment  
+
+---
+
+## 📚 Education / Publications / Blog  
+- **[If you have any]**: Add your research papers, blog posts, or Kaggle notebooks here.  
+- You could link to your LinkedIn or personal portfolio.
+
+---
+
+## 📫 How to Reach Me  
+- **LinkedIn**: [Your LinkedIn URL]  
+- **Email**: your-email@example.com  
+- **Portfolio**: [Your website or blog]
+
+---
+
+## 🔗 Other  
+- 🔭 I’m open to collaborations on AI / ML / Deep Learning projects  
+- 🌱 I love contributing to open-source  
 
 
 
