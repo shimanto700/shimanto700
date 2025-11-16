@@ -22,10 +22,10 @@
 | Area | Technologies / Tools |
 |---|---|
 | **Machine Learning / Deep Learning** | PyTorch, TensorFlow, scikit-learn |
-| **Natural Language Processing** | Hugging Face Transformers, spaCy, NLTK |
-| **Data Engineering** | Pandas, NumPy, SQL, Apache Spark |
-| **MLOps** | Docker, Kubernetes, MLflow, GitHub Actions |
-| **Cloud / Infrastructure** | AWS / GCP, REST API, FastAPI |
+| **Natural Language Processing** | Hugging Face Transformers, spaCy, |
+| **Data Engineering** | Pandas, NumPy, SQL, |
+| **MLOps** | Docker, MLflow, GitHub Actions |
+| **Cloud / Infrastructure** | AWS, REST API, FastAPI |
 | **Programming** | Python, Git, Bash |
 
 ---
@@ -54,16 +54,11 @@ Here are some of my key AI / ML projects:
 
 ---
 
-## 📚 Education / Publications / Blog  
-- **[If you have any]**: Add your research papers, blog posts, or Kaggle notebooks here.  
-- You could link to your LinkedIn or personal portfolio.
-
 ---
 
 ## 📫 How to Reach Me  
-- **LinkedIn**: [Your LinkedIn URL]  
-- **Email**: your-email@example.com  
-- **Portfolio**: [Your website or blog]
+- **LinkedIn**: [www.linkedin.com/in/hussain-shimanto]  
+- **Email**: hussainshimanto715@gmail.com
 
 ---
 
