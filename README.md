@@ -23,11 +23,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/shimanto715" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shimanto715" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/hussain-shimanto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/hussain-shimanto" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/hussainshimanto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/hussainshimanto" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/hussainshimanto1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/hussainshimanto1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/shimanto700/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/shimanto700/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/shimanto715/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/shimanto715/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hussain-shimanto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hussain-shimanto" height="30" width="40" /></a>
+<a href="https://kaggle.com/hussainshimanto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="hussainshimanto" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/hussainshimanto1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hussainshimanto1" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/shimanto700" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shimanto700" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/shimanto715" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shimanto715" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
