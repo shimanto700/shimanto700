@@ -5,7 +5,7 @@
 
 <!-- Programmer GIF -->
 <div align="center">
-  <img alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+  <img height="200" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shimanto700&label=Profile%20views&color=0e75b6&style=flat" alt="shimanto700" /> </p>
@@ -28,6 +28,10 @@
 <a href="https://www.hackerrank.com/hussainshimanto1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hussainshimanto1" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/shimanto700" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shimanto700" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/shimanto715" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shimanto715" height="30" width="40" /></a>
+<!-- ResearchGate -->
+<a href="https://www.researchgate.net/profile/Hussain-Abdulah-Saleh-Shimanto?ev=hdr_xprf" target="blank">
+  <img align="center" src="https://cdn.simpleicons.org/researchgate/00CCBB" alt="ResearchGate" height="30" width="40" />
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
