@@ -28,16 +28,7 @@
 | **Cloud / Infrastructure** | AWS, REST API, FastAPI |
 | **Programming** | Python, Git, Bash |
 
----
-
-## 🚀 My Projects  
-Here are some of my key AI / ML projects:  
-
-- **Project A** — Brief description: e.g., “A sentiment analysis tool using transformer models”  
-- **Project B** — Brief description: e.g., “Computer vision project for image classification”  
-- **Project C** — Brief description: e.g., “End-to-end ML pipeline with CI/CD and monitoring”  
-
-*(Add links to the repos)*
+--
 
 ---
 
