@@ -1,4 +1,3 @@
-
 <!-- Your Info. -->
 <h1 align="center">Hello World 👋, I'm Shimanto!</h1>
 <h3 align="center">A passionate Learner in Software and Hardware devlopement from Bangladesh</h3>
